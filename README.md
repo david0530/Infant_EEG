@@ -111,23 +111,10 @@ python optimizer.py --model mlp --data_path /path/to/data.pth
 - Optuna
 - pandas, numpy
 
-## 📜 Citation
-
-If you use this work for research or publication, please cite:
-
-```
-@misc{infanteegregression2025,
-  author = {Your Name},
-  title = {Infant EEG Growth Motor Regression},
-  year = {2025},
-  howpublished = {\url{https://github.com/yourusername/infant-eeg-growth-motor-regression}}
-}
-```
-
 ---
 
 ## 📬 Contact
 
-For questions, please open an issue or contact [your.email@example.com](mailto:your.email@example.com).
+For questions, please open an issue or contact dongjun.yang@emory.edu.
 
 ---
